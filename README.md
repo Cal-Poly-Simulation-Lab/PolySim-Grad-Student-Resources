@@ -1,4 +1,16 @@
-# Task One:  The Thesis Proposal
+# Mehiel's Guidelines for Completing a Thesis Project
+
+Please take a look at the following guidelines for completing the four major tasks/milestones required for your thesis.  Each of these milestonse are setup to help you make continuous project to the completion of the thesis project.  Remember, the work you do to complete the thesis project is in addition to completing these milestones.  These milestones are meant to keep you on task, to get buy-in from your thesis committee, and provide you the opportunity to share your work with others in the department.  Remember, even though most of your time will be spent working on the thesis project (building hardware, writing code, doing math/analysis) the written thesis is the primary document you will defend.  Defending your written work is what earns you the MS degree.
+
+# Task One:  The Literature Review and Thesis Proposal
+
+This section coveres your first milestone/deliverable for your thesis project, the literature review and the thesis proposal.  Your grade for Aero 599 thesis unit will be assigned based on completing these tasks.
+
+## The Literature Review
+
+
+
+## The Thesis Proposal
 
 The goal of a thesis proposal is threefold:
 
@@ -8,7 +20,7 @@ The goal of a thesis proposal is threefold:
 
 Achieving these goals will give you a clear scope of work and path for successful completion of your thesis project.
 
-## Typical Proposal Sections Include:
+### Typical Proposal Sections Include:
 
 * Introduction/Background to the topic
 Give a few slides to introduce yourself, the committee, and the topic of your thesis at a high level.  Then give a few slides that summarize your literature review.
