@@ -8,6 +8,10 @@ This section coveres your first milestone/deliverable for your thesis project, t
 
 ## The Literature Review
 
+* Weeks 1-3 - Topic development with advisor
+* Week 4/5 - Lit Review Outline
+* Week 7 - Committee formed
+* Week 9/10 - Thesis Proposal
 
 
 ## The Thesis Proposal
@@ -43,7 +47,8 @@ You don't have to include all the topics as slide titles; you can be creative an
 * [CP simple template 16x9_brand fonts.pptx](https://github.com/Cal-Poly-Simulation-Lab/PolySim-Grad-Student-Resources/files/13221921/CP.simple.template.16x9_brand.fonts.pptx)
 
 # Task Two: The Thesis Seminar
-TBC
+
+* Seminar - any week
 
 # Task Three: The Thesis Write-up
 
