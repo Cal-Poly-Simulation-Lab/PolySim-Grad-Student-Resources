@@ -4,15 +4,44 @@ Please take a look at the following guidelines for completing the four major tas
 
 # Task One:  The Literature Review and Thesis Proposal
 
-This section coveres your first milestone/deliverable for your thesis project, the literature review and the thesis proposal.  Your grade for Aero 599 thesis unit will be assigned based on completing these tasks.
+This section coveres your first milestone/deliverable for your thesis project, the literature review and the thesis proposal.  Your grade for Aero 599 thesis units for the fall term will be assigned based on completing these tasks.
 
 ## The Literature Review
 
 * Weeks 1-3 - Topic development with advisor
-* Week 4/5 - Lit Review Outline
-* Week 7 - Committee formed
+* Week 4/5 - Develop literature review outline
+* Week 6 - Form your committee
+* Week 7 - Send literature review to your *advisor*
+* Week 8 - Send literature review to your *committee*
 * Week 9/10 - Thesis Proposal
 
+## The Literature Review
+
+The elements of an engineering literature review include a clear introduction, body, and conclusion. The introduction defines the topic and its significance, while the body analyzes and synthesizes the existing research by comparing, contrasting, and critiquing different sources. The conclusion summarizes key findings, identifies gaps in knowledge, and explains how the reviewed work leads to the author's own project or research.
+
+### Introduction
+
+* Background and purpose: Provide an overview of the topic, define any key terminology, and state the purpose and scope of the review.
+* Significance: Explain why the topic is important and what gap in existing knowledge your review will address.
+* Organization: Briefly outline the structure of the review. 
+
+### Body
+
+* Evaluation and synthesis: Critically analyze the literature, evaluating the strengths and weaknesses of different studies.
+* Comparison and contrast: Discuss how different studies are similar and how they vary in their methods, results, and conclusions.
+* Categorization: Organize the literature into categories, such as by theme, methodology, or the position taken by the authors.
+* Historical context: Provide historical context or an overview of how the research area has developed over time. 
+
+### Conclusion
+
+* Summary of findings: Briefly summarize the most significant findings and key points from the reviewed literature.
+* Identification of gaps: Highlight the remaining gaps in knowledge and unanswered questions in the research.
+* Implications: Explain the implications of the reviewed work for future research and how your own project builds upon those works.
+
+### Reminders
+
+* Be sure to review literature or projects internal to Cal Poly, but be sure to look *outside* Cal Poly to see what otehr folks are doing.
+* 
 
 ## The Thesis Proposal
 
