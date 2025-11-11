@@ -2,6 +2,12 @@
 
 Please take a look at the following guidelines for completing the four major tasks/milestones required for your thesis.  Each of these milestonse are setup to help you make continuous project to the completion of the thesis project.  Remember, the work you do to complete the thesis project is in addition to completing these milestones.  These milestones are meant to keep you on task, to get buy-in from your thesis committee, and provide you the opportunity to share your work with others in the department.  Remember, even though most of your time will be spent working on the thesis project (building hardware, writing code, doing math/analysis) the written thesis is the primary document you will defend.  Defending your written work is what earns you the MS degree.
 
+These guidelines have been developed with the intent of finishing a thesis in one academic year.
+
+# Task Zero:  Brainstorm a Thesis Project Idea for Blended Students
+
+If you are taking on the Blended MS program, or BMS, you will be accepted into the program toward the end of your last term at Cal Poly.  At that time, it makes sense to start work on brainstorming and working out more details for your project.  We will start having informal meetings to discuss your ideas and how they relate to the overall goals of the PolySim lab.  There are no deliverables at this time, but starting the project definition phase early will help you get a running start in the fall term when you need to complete your literature review, form your thesis committee, and present your thesis proposal.
+
 # Task One:  The Literature Review and Thesis Proposal
 
 This section coveres your first milestone/deliverable for your thesis project, the literature review and the thesis proposal.  Your grade for Aero 599 thesis units for the fall term will be assigned based on completing these tasks.
