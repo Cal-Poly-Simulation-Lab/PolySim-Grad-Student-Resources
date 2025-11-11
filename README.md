@@ -56,6 +56,8 @@ You don't have to include all the topics as slide titles; you can be creative an
 
 A basic outline of a good thesis contains three parts.  The first part is the combination of your introduction and literature review.  The second part contains the approach, methodology, results, and analysis, of your project.  Finally, end with a third section with a conclusion and discussion of future work.  All three parts typically result in 5-6 chapters depending on how you decide to organize your content.
 
+INCLUDE PARAGRAPH ABOUT SETTING UP LATEX PROJECT ON OVERLEAF
+
 ## Introduction/Lit review
 
 The introduction should start with a "soft" introduction and background to your thesis project.  You want to pull the reader in and ground the project in the broader context.  But, don't get cute.  The reader will have some technical background; keep this in mind.  The important part of the intro/lit review section, is that the reader should have an understanding of YOUR thesis project within a few pages of the introduction.  This does not mean you should state your thesis in all it's technical glory, but instead, make sure your reader is motivated to read the rest of the thesis because they know where everything is going.  An introduction can be anywhere from 5-10 pages.
