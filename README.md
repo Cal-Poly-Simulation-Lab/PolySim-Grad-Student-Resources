@@ -17,8 +17,8 @@ This section coveres your first milestone/deliverable for your thesis project, t
 * Weeks 1-3 - Topic development with advisor
 * Week 4/5 - Develop literature review outline
 * Week 6 - Form your committee
-* Week 7 - Send literature review to your *advisor*
-* Week 8 - Send literature review to your *committee*
+* Week 7 - Send *rough* draft literature review to your *advisor*
+* Week 8 - Send *final* literature review to your *advisor*
 * Week 9/10 - Thesis Proposal
 
 ### The Literature Review
