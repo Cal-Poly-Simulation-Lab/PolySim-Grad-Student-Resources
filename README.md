@@ -4,8 +4,8 @@ Please take a look at the following guidelines for completing the four major tas
 
 These guidelines have been developed with the intent of finishing a thesis in one academic year.
 
-- [] task zero
-- [x] task one
+- [ ] task zero
+- [ ] task one
 
 ## Task Zero:  Brainstorm a Thesis Project Idea for Blended Students
 
