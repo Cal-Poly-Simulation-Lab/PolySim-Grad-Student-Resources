@@ -4,6 +4,9 @@ Please take a look at the following guidelines for completing the four major tas
 
 These guidelines have been developed with the intent of finishing a thesis in one academic year.
 
+- [] task zero
+- [x] task one
+
 ## Task Zero:  Brainstorm a Thesis Project Idea for Blended Students
 
 If you are taking on the Blended MS program, or BMS, you will be accepted into the program toward the end of your last term at Cal Poly.  At that time, it makes sense to start work on brainstorming and working out more details for your project.  We will start having informal meetings to discuss your ideas and how they relate to the overall goals of the PolySim lab.  There are no deliverables at this time, but starting the project definition phase early will help you get a running start in the fall term when you need to complete your literature review, form your thesis committee, and present your thesis proposal.
