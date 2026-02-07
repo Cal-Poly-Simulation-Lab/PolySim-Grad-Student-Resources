@@ -4,6 +4,8 @@
 
 Consider any two physical vectors, $\vec{a}$ and $\vec{b}$.  The components of each physical vector can be described in one of two reference frames.  Using the vectrix notation, we would say, $\vec{a}=\vec{\mathcal{F}}^T_1a_1 = \vec{\mathcal{F}}^T_2 a_2$ and $\vec{b}=\vec{\mathcal{F}}^T_1 b_1 = \vec{\mathcal{F}}^T_2 b_2$.  Furthermore, we can define the inner product, or dot product as, $\vec{a} \cdot \vec{b} =a_1^T b_1 =a_2^T b_2$.  Now, define a physical vector $\vec{c}=\vec{\mathcal{F}}^T_1 M_1b_1 =\vec{\mathcal{F}}^T_2 M_2b_2$. Use the inner product definition to show for any square matrix, the matrix transformation from $\mathcal{F}_1$ to $F_2$ is given by $M_2 = C_{21}M_1C_{21}^T$ where $C_{21}$ is the frame rotation relating $\mathcal{F}_1$ and $\mathcal{F}_2$.  Hint, start with $\vec{a} \cdot \vec{c} =a_1^T c_1 =a_1^T M_1 b_1$.
 
+$\mathcal{F}$
+
 ### Solution
 
 Starting with $\vec{a} \cdot \vec{c} =a_1^T c_1 =a_1^T M_1 b_1$ and utilizing the fact that the inner product of two vecotrs is the same regardless of the reference frame used, we get,
